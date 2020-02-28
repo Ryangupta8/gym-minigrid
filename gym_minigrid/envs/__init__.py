@@ -19,3 +19,6 @@ from gym_minigrid.envs.crossing import *
 from gym_minigrid.envs.dynamicobstacles import *
 from gym_minigrid.envs.activeperceptions import *
 from gym_minigrid.envs.distshift import *
+from gym_minigrid.envs.personfinding_simple import *
+# from gym_minigrid.envs.multiagent import *
+from gym_minigrid.envs.multiagentpersonfinding import *
